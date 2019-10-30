@@ -2,7 +2,7 @@
 
 I did both of the problems.
 
-I changed the upload folder name: 
+I changed the dataframe name: 
 
 purchase_data to game for Pymomli
 
